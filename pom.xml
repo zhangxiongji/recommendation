@@ -30,6 +30,11 @@
         </dependency>
         <dependency>
             <groupId>org.apache.mahout</groupId>
+            <artifactId>mahout-examples</artifactId>
+            <version>${mahout.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.mahout</groupId>
             <artifactId>mahout-hdfs</artifactId>
             <version>${mahout.version}</version>
         </dependency>
